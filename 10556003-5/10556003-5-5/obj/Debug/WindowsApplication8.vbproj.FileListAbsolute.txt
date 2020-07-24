@@ -1,0 +1,27 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication8\obj\Debug\WindowsApplication8.vbprojResolveAssemblyReference.cache
+F:\10556003-5\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+F:\10556003-5\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+F:\10556003-5\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+F:\10556003-5\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+F:\10556003-5\10556003-5-4\bin\Debug\WindowsApplication8.exe.config
+F:\10556003-5\10556003-5-4\obj\Debug\WindowsApplication8.exe
+F:\10556003-5\10556003-5-4\obj\Debug\WindowsApplication8.xml
+F:\10556003-5\10556003-5-4\obj\Debug\WindowsApplication8.pdb
+F:\10556003-5\10556003-5-5\bin\Debug\WindowsApplication8.exe.config
+F:\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.exe
+F:\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.xml
+F:\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.pdb
+D:\五專一年級\10556003-5\10556003-5-5\bin\Debug\WindowsApplication8.exe.config
+D:\五專一年級\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.exe
+D:\五專一年級\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.xml
+D:\五專一年級\10556003-5\10556003-5-5\obj\Debug\WindowsApplication8.pdb

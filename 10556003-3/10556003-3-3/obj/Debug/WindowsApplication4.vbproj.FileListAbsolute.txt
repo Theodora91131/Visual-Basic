@@ -1,0 +1,30 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+E:\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+E:\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+E:\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+E:\10556003-3\10556003-3-3\bin\Debug\WindowsApplication4.exe.config
+E:\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.exe
+E:\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.xml
+E:\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.pdb
+D:\VB_HW\10556003-3\10556003-3-3\bin\Debug\WindowsApplication4.exe.config
+D:\VB_HW\10556003-3\10556003-3-3\bin\Debug\WindowsApplication4.exe
+D:\VB_HW\10556003-3\10556003-3-3\bin\Debug\WindowsApplication4.pdb
+D:\VB_HW\10556003-3\10556003-3-3\bin\Debug\WindowsApplication4.xml
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.exe
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.xml
+D:\VB_HW\10556003-3\10556003-3-3\obj\Debug\WindowsApplication4.pdb

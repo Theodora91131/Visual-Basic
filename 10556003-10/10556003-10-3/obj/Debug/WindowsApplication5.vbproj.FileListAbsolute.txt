@@ -1,0 +1,15 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+F:\10556003-10\10556003-10-3\bin\Debug\WindowsApplication5.exe.config
+F:\10556003-10\10556003-10-3\obj\Debug\WindowsApplication5.exe
+F:\10556003-10\10556003-10-3\obj\Debug\WindowsApplication5.xml
+F:\10556003-10\10556003-10-3\obj\Debug\WindowsApplication5.pdb

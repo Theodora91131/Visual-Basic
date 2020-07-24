@@ -1,0 +1,46 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\bin\Debug\listSalary1.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\bin\Debug\listSalary1.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\bin\Debug\listSalary1.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary1.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+F:\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+F:\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+F:\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+F:\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+F:\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Desktop\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Desktop\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+C:\Users\廖怡涵\Desktop\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+C:\Users\廖怡涵\Desktop\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+C:\Users\廖怡涵\Desktop\10556003-4\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+F:\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+F:\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+F:\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+F:\10556003-4\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+F:\10556003-4\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+F:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+F:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+F:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+F:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+F:\10556003-4\10556003-4-1\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+E:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+E:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+E:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+E:\10556003-4\10556003-4-1\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+E:\10556003-4\10556003-4-1\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+E:\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+E:\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+E:\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+E:\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+E:\10556003-3\10556003-3-1\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config
+D:\VB_HW\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.exe
+D:\VB_HW\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.xml
+D:\VB_HW\10556003-3\10556003-3-1\listSalary1\listSalary1\obj\Debug\listSalary1.pdb
+D:\VB_HW\10556003-3\10556003-3-1\listSalary1\listSalary1\bin\Debug\listSalary1.exe.config

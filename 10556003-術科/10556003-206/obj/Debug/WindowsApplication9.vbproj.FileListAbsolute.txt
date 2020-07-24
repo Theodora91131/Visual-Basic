@@ -1,0 +1,33 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+F:\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.exe.config
+F:\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.exe
+F:\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.pdb
+F:\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.xml
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication1.Form1.resources
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication1.Resources.resources
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.exe
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.xml
+F:\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.pdb
+D:\VB_HW\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.exe.config
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.exe
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.xml
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.pdb
+D:\VB_HW\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.exe
+D:\VB_HW\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.pdb
+D:\VB_HW\10556003-術科\10556003-206\bin\Debug\WindowsApplication9.xml
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB_HW\10556003-術科\10556003-206\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache

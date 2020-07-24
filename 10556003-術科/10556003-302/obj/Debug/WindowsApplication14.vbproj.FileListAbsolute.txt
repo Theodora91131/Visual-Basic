@@ -1,0 +1,36 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication14\obj\Debug\WindowsApplication1.Form2.resources
+F:\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.exe.config
+F:\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.exe
+F:\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.pdb
+F:\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.xml
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Form2.resources
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Form1.resources
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Resources.resources
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.exe
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.xml
+F:\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.pdb
+D:\VB_HW\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.exe.config
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.exe
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.xml
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.pdb
+D:\VB_HW\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.exe
+D:\VB_HW\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.pdb
+D:\VB_HW\10556003-術科\10556003-302\bin\Debug\WindowsApplication14.xml
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Form2.resources
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB_HW\10556003-術科\10556003-302\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache

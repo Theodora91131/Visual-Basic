@@ -1,0 +1,26 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+F:\10556003-10\10556003-10-2\bin\Debug\WindowsApplication4.exe.config
+F:\10556003-10\10556003-10-2\bin\Debug\WindowsApplication4.exe
+F:\10556003-10\10556003-10-2\bin\Debug\WindowsApplication4.pdb
+F:\10556003-10\10556003-10-2\bin\Debug\WindowsApplication4.xml
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication1.Form1.resources
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication1.Resources.resources
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.exe
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.xml
+F:\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.pdb
+D:\五專一年級\10556003-10\10556003-10-2\bin\Debug\WindowsApplication4.exe.config
+D:\五專一年級\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.exe
+D:\五專一年級\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.xml
+D:\五專一年級\10556003-10\10556003-10-2\obj\Debug\WindowsApplication4.pdb

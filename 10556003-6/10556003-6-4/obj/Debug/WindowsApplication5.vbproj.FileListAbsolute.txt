@@ -1,0 +1,22 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\VB_HW\10556003-6\10556003-6-4\bin\Debug\WindowsApplication5.exe.config
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication5.exe
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication5.xml
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication5.pdb
+D:\VB_HW\10556003-6\10556003-6-4\bin\Debug\WindowsApplication5.exe
+D:\VB_HW\10556003-6\10556003-6-4\bin\Debug\WindowsApplication5.pdb
+D:\VB_HW\10556003-6\10556003-6-4\bin\Debug\WindowsApplication5.xml
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB_HW\10556003-6\10556003-6-4\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache

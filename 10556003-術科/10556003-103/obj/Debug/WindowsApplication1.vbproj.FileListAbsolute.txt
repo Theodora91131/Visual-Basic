@@ -1,0 +1,23 @@
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\10556003-術科\10556003-103\bin\Debug\WindowsApplication1.exe.config
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.exe
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.xml
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.pdb
+F:\10556003-術科\10556003-103\bin\Debug\WindowsApplication1.exe
+F:\10556003-術科\10556003-103\bin\Debug\WindowsApplication1.pdb
+F:\10556003-術科\10556003-103\bin\Debug\WindowsApplication1.xml
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.Form1.resources
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.Resources.resources
+F:\10556003-術科\10556003-103\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+F:\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\10556003-12\10556003-12-4\bin\Debug\WindowsApplication2.exe.config
+F:\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.exe
+F:\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.xml
+F:\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.pdb
+D:\五專一年級\10556003-12\10556003-12-4\bin\Debug\WindowsApplication2.exe.config
+D:\五專一年級\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.exe
+D:\五專一年級\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.xml
+D:\五專一年級\10556003-12\10556003-12-4\obj\Debug\WindowsApplication2.pdb

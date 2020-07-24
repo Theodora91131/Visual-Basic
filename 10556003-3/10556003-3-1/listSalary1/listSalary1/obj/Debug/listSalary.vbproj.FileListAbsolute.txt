@@ -1,0 +1,11 @@
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\bin\Debug\listSalary.exe.config
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\bin\Debug\listSalary.exe
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\bin\Debug\listSalary.pdb
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\bin\Debug\listSalary.xml
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.Form1.resources
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.Resources.resources
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.exe
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.xml
+C:\Users\廖怡涵\AppData\Local\Temporary Projects\listSalary\obj\Debug\listSalary.pdb

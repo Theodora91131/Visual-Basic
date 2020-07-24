@@ -1,0 +1,26 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\bin\Debug\WindowsApplication13.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\bin\Debug\WindowsApplication13.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\bin\Debug\WindowsApplication13.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\bin\Debug\WindowsApplication13.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication13\obj\Debug\WindowsApplication13.vbprojResolveAssemblyReference.cache
+F:\10556003-7\10556003-7-5\bin\Debug\WindowsApplication13.exe.config
+F:\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.exe
+F:\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.xml
+F:\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.pdb
+D:\VB_HW\10556003-7\10556003-7-5\bin\Debug\WindowsApplication13.exe.config
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.exe
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.xml
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.pdb
+D:\VB_HW\10556003-7\10556003-7-5\bin\Debug\WindowsApplication13.exe
+D:\VB_HW\10556003-7\10556003-7-5\bin\Debug\WindowsApplication13.pdb
+D:\VB_HW\10556003-7\10556003-7-5\bin\Debug\WindowsApplication13.xml
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.vbprojResolveAssemblyReference.cache
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB_HW\10556003-7\10556003-7-5\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache

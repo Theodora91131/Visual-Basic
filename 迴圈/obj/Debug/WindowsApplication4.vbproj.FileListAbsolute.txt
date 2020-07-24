@@ -1,0 +1,27 @@
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\10556003\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\10556003\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\10556003\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Documents\Visual Studio 2015\Projects\10556003\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Desktop\WindowsApplication4\10556003\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Desktop\WindowsApplication4\10556003\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Desktop\WindowsApplication4\10556003\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Desktop\WindowsApplication4\10556003\obj\Debug\WindowsApplication4.pdb
+C:\Users\廖怡涵\Desktop\10556003\bin\Debug\WindowsApplication4.exe.config
+C:\Users\廖怡涵\Desktop\10556003\obj\Debug\WindowsApplication4.exe
+C:\Users\廖怡涵\Desktop\10556003\obj\Debug\WindowsApplication4.xml
+C:\Users\廖怡涵\Desktop\10556003\obj\Debug\WindowsApplication4.pdb
+D:\VB_HW\迴圈\bin\Debug\WindowsApplication4.exe.config
+D:\VB_HW\迴圈\obj\Debug\WindowsApplication4.exe
+D:\VB_HW\迴圈\obj\Debug\WindowsApplication4.xml
+D:\VB_HW\迴圈\obj\Debug\WindowsApplication4.pdb
